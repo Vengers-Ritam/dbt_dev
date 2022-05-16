@@ -13,7 +13,7 @@ with source_data as (
 
     {% set payment_methods = ["bank_transfer", "credit_card", "gift_card"] %}
 
-    select 1 as id
+    --select 1 as id
     --union all
     --select null as id
 
